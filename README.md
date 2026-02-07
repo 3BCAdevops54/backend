@@ -73,19 +73,27 @@ DELETE/jobs/{id}Remove an application
 Bash
 mvn spring-boot:run
 
-![Backend running](<img width="1407" height="1059" alt="backend running" src="https://github.com/user-attachments/assets/7cb4b420-2ddc-4484-9824-5cf1e50db956" />)
+![Backend running]<img width="1407" height="1059" alt="backend running" src="https://github.com/user-attachments/assets/7cb4b420-2ddc-4484-9824-5cf1e50db956" />
+
+
+## backend running in localhost:
+
+ - **url**:  http://localhost:8081/jobs
+    
+    ![backend on host]<img width="1920" height="1080" alt="backend" src="https://github.com/user-attachments/assets/b0f20683-2047-4b44-b1ff-6da8b8397127" />
+
 
 
 ## sonar backend
    This project integrates Sonar for static code analysis and code quality monitoring.
-   ![sonar](<img width="1920" height="1080" alt="SONAR" src="https://github.com/user-attachments/assets/5754997c-217c-47af-9027-6885d1b14afc" />)
+   ![sonar]<img width="1920" height="1080" alt="SONAR" src="https://github.com/user-attachments/assets/5754997c-217c-47af-9027-6885d1b14afc" />
 
 ## docker image
    
 docker build -t jobapp-backend.
 docker run -p 8081:8080 jobapp-backend.
 
-![docker image](<img width="1920" height="1080" alt="docker" src="https://github.com/user-attachments/assets/1dc8d523-76b5-4706-ac79-8e7ad4d962e4" />)
+![docker image]<img width="1920" height="1080" alt="docker" src="https://github.com/user-attachments/assets/1dc8d523-76b5-4706-ac79-8e7ad4d962e4" />
 
 
 
