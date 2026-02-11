@@ -95,6 +95,10 @@ docker run -p 8081:8080 jobapp-backend.
 
 ![docker image]<img width="1920" height="1080" alt="docker" src="https://github.com/user-attachments/assets/1dc8d523-76b5-4706-ac79-8e7ad4d962e4" />
 
+## backend deployement 
+project backend is deployed
+![Backend deployement]<img width="1920" height="1080" alt="backend deployement" src="https://github.com/user-attachments/assets/a0dbbbe8-b678-4b93-9cf2-01ec9c8fca50" />
+
 
 
 
